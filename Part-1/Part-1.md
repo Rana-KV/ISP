@@ -15,7 +15,7 @@
 - The evaluation will be on the first draft of the security self-assessment you and your group create.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
-### *Task:* Perform a Security Self-assessment for a open source project
+### *Task:* Create a first draft of Security Self-assessment for a open source project
 - This assignment is a group project and the groups will be announced in the Class.
 - Throughout the assignment you and your group will carry out the role of a *Security Pal* and perform Security Self-assessment for an open source project in CNCF.
 - Create a first draft of Security Self-assessment for an open source project in CNCF.
