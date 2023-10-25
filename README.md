@@ -39,7 +39,11 @@ Assignment contains 3 major parts where it will be evaluated:
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
 ## Stages
-### Stage 1
+### Stage-1: **Preparation**
+This marks the initial stage where Security Pals initiate a GitHub issue to monitor their work progress and concurrently establish a placeholder for the security self-assessment document. <br><br>
+Difficulty: ⭐️☆☆☆☆ <br>
+Time: ⭐️☆☆☆☆ <br>
+
 - Create a GitHub issue:
   - Create a Github issue in CNCF TAG-Security Github repository to initiate the process.
   - Update the information in the Github issue.<br>
@@ -56,7 +60,31 @@ Assignment contains 3 major parts where it will be evaluated:
   - This document includes metadata details and placeholders for all sections.
   - Update the Metadata section of the document.<br>
   
-### Stage 2
+### Stage-2: **Understanding the Project**
+This is the most important part for all Security Pals to internalize and understand for a project.
+If the project is interested in examining this portion of the self assessment, then it would also be
+helpful for the Security Pals to make the project aware of it at this point. However, the Security
+Pals need not wait for a response, and can safely continue to the next stage.<br><br>
+Difficulty: ⭐️⭐️☆☆☆ <br>
+Time: ⭐️⭐️⭐️☆☆ <br>
+- Security Pals must understand the overall project at a sufficient level of detail.
+  - In essence, before doing more detailed security work, one should understand:
+    - Project functionality and typical usage.
+    - Roles of involved parties (e.g., sidecar, central server, maintainers).
+    - Actions performed (e.g., data collection, query language, software release).
+    - Project's goals (e.g., access control, software source control).
+    - Project's non-goals (e.g., preventing insider data leaks).
+- Complete the following sections in the Overview section of the self assessment document:
+  - About Project
+  - Background
+  - Actors
+  - Actions
+  - Goals
+  - Non-Goals 
+<br>
+
+**Note:** It is recommended you do this step independently and then compare notes with your teammates. 
+
 ### Stage 3
 ### Stage 4
 ### Stage 5
