@@ -1,8 +1,8 @@
 # Assignment 3 - Part 3.1
 ## Table of Contents
 
-- [Task](#task-create-first-draft)
 - [Part 3.1](#part-31)
+- [Task](#task-create-first-draft)
 - [Stages](#stages)
   - [Stage-1](#stage-1-preparation)
   - [Stage-2](#stage-2-understanding-the-project)
