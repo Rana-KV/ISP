@@ -28,18 +28,18 @@
 ## Assignment-3 Parts
 Assignment contains 3 major parts where it will be evaluated:
 ### Part 3.1
-- It should be submitted before you move to Phase 4 (Intiate discussions with project maintainers).
+- It should be submitted before you move to Stage 4 (Iteration with the project).
 - The evaluation will be on the first draft of the security self-assessment you and your group create.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
 ### Part 3.2
-- It should be submitted before you move to Phase 5 (Submit your Pull Request).
+- It should be submitted before you move to Stage 5 (Finailization).
 - It will be evaluated after you have discussed with the project maintainers and fixed or improved your security self-assessment.
 - The evaluation will be on the feedback from the project maintainers and maturity of the security self-assessment document.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
 ### Part 3.3
-- It should be submitted after completing Phase 5 (Merging your Pull Request).
+- It should be submitted after completing Stage 5 (Finailization).
 - It will be evaluated after you have discussed with the TAG-Security Team and fixed or improved your security self-assessment.
 - The evaluation will be on the feedback from the project maintainers and maturity of the security self-assessment document.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
@@ -137,7 +137,7 @@ on the Security Pals is on getting this clarity, instead of pushing for security
 changes and recommendations are handled in the joint assessment which comes after this
 process.)
 <br><br>
-**Note:** This process usually will go in multiple rounds.
+**Note:** This process usually will go on for multiple iterations.
 
 ### Stage-5: **Finailization**
 At this stage, the Security Pals need to interact with the TAG-Security reviewers to further refine the document
