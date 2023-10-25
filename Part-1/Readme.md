@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 - Part 3.1
 ## Table of Contents
 
 - [Task](#task-create-first-draft)
