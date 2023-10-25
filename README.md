@@ -4,6 +4,9 @@
 - [Task](#task-perform-a-security-self-assessment-for-a-open-source-project)
 - [Timeline](#timeline)
 - [Assignment Parts](#assignment-3-parts)
+- [Stages]
+- [FAQs]
+- [Links]
 
 ## *Task:* Perform a Security Self-assessment for a open source project
 - This assignment is a group project and the groups will be announced in the Class.
@@ -17,7 +20,7 @@
 </p>
 
 ## Assignment-3 Parts
-Assignment 3 contains 3 major parts
+Assignment contains 3 major parts where it will be evaluated:
 ### Part 3.1
 - It should be submitted before you move to Phase 4 (Intiate discussions with project maintainers).
 - The evaluation will be on the first draft of the security self-assessment you and your group create.
@@ -29,7 +32,7 @@ Assignment 3 contains 3 major parts
 - The evaluation will be on the feedback from the project maintainers and maturity of the security self-assessment document.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
-#### Part 3.2
+### Part 3.2
 - It should be submitted after completing Phase 5 (Merging your Pull Request).
 - It will be evaluated after you have discussed with the TAG-Security Team and fixed or improved your security self-assessment.
 - The evaluation will be on the feedback from the project maintainers and maturity of the security self-assessment document.
