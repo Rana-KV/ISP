@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 - Overview
 ## Table of Contents
 
 - [Task](#task-perform-a-security-self-assessment-for-a-open-source-project)
