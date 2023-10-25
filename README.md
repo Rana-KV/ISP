@@ -61,5 +61,5 @@ Assignment contains 3 major parts where it will be evaluated:
 ### Stage 4
 ### Stage 5
 ## FAQS
-**Note:** Use the template of provided in the resources section to create the Github issue.
-**Note:** Use the template of provided in the resources section to create the security self-assessment document.
+- **Note:** Use the template of provided in the resources section to create the Github issue.
+- **Note:** Use the template of provided in the resources section to create the security self-assessment document.
