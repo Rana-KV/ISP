@@ -13,8 +13,6 @@
   - [Stage-3](#stage-3-first-draft-of-the-self-assessment)
   - [Stage-4](#stage-4-iteration-with-the-project)
   - [Stage-5](#stage-5-finailization)
-- [FAQs](#faqs)
-- [Links]
 
 ## *Task:* Perform a Security Self-assessment for a open source project
 - This assignment is a group project and the groups will be announced in the Class.
@@ -151,7 +149,3 @@ TAG-Security reviewers provide feedback which needs to be implemented in the sel
 
 - Fix self assessment based on feedback from TAG-Security reviewers
 - Merge the Pull Request.
-
-## FAQS
-- **Note:** Use the template of provided in the resources section to create the Github issue.
-- **Note:** Use the template of provided in the resources section to create the security self-assessment document.
