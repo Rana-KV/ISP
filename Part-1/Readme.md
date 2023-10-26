@@ -9,6 +9,10 @@
   - [Stage-3](#stage-3-first-draft-of-the-self-assessment)
 - [FAQs](#faqs)
 - [Resources and Links](#resources-and-links)
+  - [Templates](#templates)
+  - [Guidelines](#guidelines)
+  - [Reference Implementation](#reference-implementation)
+  - [Other resources](#other-resources)
 
 ## Part 3.1
 - It should be submitted after you complete to Stage 3 (First draft of the Self Assessment).
@@ -178,9 +182,49 @@ This can help to point out areas where the self assessment needs to be further r
 </details>
 
 ## Resources and Links
+
+### Templates
+
 - Template for [Github issue](/Samples/Github_issue.txt)
 - Template for [Security Self-Assessment](/Samples/self-assessment.md)
 - Template for [Lightweight Threat Modeling](https://docs.google.com/document/d/1tuGtKrjcreDFlHcXYCTjLvy3mjyamdQzwCZr6uqFcR4/edit#heading=h.w0tawqz3390z)
+
+### Tools
 - Opensource SBOM generation Tool [FOSSA](https://app.fossa.com/)
 - Github's tool for finding languages used in the codebase [linguist](https://github.com/github-linguist/linguist)
+
+### Guidelines
 - Quickstart for writing on Github [guidelines](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- CNCF guidelines
+  - TSSA Process [Info](https://github.com/cncf/tag-security/tree/main/assessments)
+  - Assessment Guide [Info](https://github.com/cncf/tag-security/tree/main/assessments/guide)
+  > [!NOTE]
+  > The guidelines have more information about Joint Assessment which is out of scope.<br>
+  > Read the CNCF guidelines documents only to understand how your work fits into TSSA process.
+
+### Reference Implementation
+- [Self-assessment for Karmada](https://github.com/Rana-KV/tag-security/blob/main/assessments/projects/karmada/self-assessment.md)
+- [Github issue tracker](https://github.com/cncf/tag-security/issues/1112)
+
+### Other Resources
+
+> [!IMPORTANT]
+> The previous project might use different templates or the methods could be outdated and not directly realted to your project.<br>
+> These are provide only as a guide for you to think out of the box during assessment and threat modeling.
+
+<details>
+<summary> Previous projects assessment </summary>
+  - [in-toto security self-assessment](https://github.com/Rana-KV/tag-security/blob/main/assessments/projects/in-toto/self-assessment.md)
+  - [Flux Multi-tenancy Security Self-assessment](https://docs.google.com/document/d/1SluYVDuq-egSTurcnrVRMJw6ecSV65Qtgi10T4WHyYs/edit#heading=h.1tct6t54k4bs)
+  - [Flux Multitenancy: Lightweight Threat Modelling Recommendations](https://docs.google.com/document/d/1Ruf3VNmdJyvp5bgiu3rjhNDEZx3zK4Ui6BIonkHwl_E/edit#heading=h.s2vhbyeeeqni)
+  - [Flagger Security Self-Assessment](https://docs.google.com/document/d/1bdsWHT1L403ss1meMF6zR1G4hUy2qLtIi8I-IMKEMmM/edit#heading=h.e3ph7yi8m6k)
+  - [Flatcar Container Linux Self-Assessment](https://docs.google.com/document/d/1rj9HpBLskgc1FUt1LEeXmMGXdHVEY6qeQt1yocBLmi8/edit#heading=h.20c78dkf8ou0)
+  - [KubeEdge Security Self-Assessment](https://github.com/kubeedge/community/blob/master/sig-security/self-assessment.md)
+  - [Cloud Native Buildpacks Security Assessment](https://github.com/cncf/tag-security/blob/main/assessments/projects/buildpacks/self-assessment.md)
+  - [Cluster API Security Self-Assessment](https://github.com/kubernetes/sig-security/blob/main/sig-security-assessments/cluster-api/self-assessment.md)
+  - [Kyverno Security Self Assessment](https://github.com/kyverno/tag-security/blob/kyverno-self-assessment/assessments/projects/kyverno/self-assessment.md#self-assessment-use)
+  - [Harbor Project Self Assessment](https://github.com/Rana-KV/tag-security/blob/main/assessments/projects/harbor/self-assessment.md#intended-use)
+  - [OPA security self-assessment](https://github.com/cncf/tag-security/blob/main/assessments/projects/opa/self-assessment.md)
+  - [Pixie Security Self Assessment](https://github.com/Rana-KV/tag-security/blob/main/assessments/projects/pixie/self-assessment.md)
+  - [Keycloak Project](https://github.com/Rana-KV/tag-security/blob/main/assessments/projects/keycloak/self-assessment.md)
+</details>
