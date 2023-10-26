@@ -166,9 +166,21 @@ This can help to point out areas where the self assessment needs to be further r
 
 </details>
 
+<details>
+<summary> I don't know how to write, edit and format on .md files of Github, Do you have any resources? </summary>
+
+  - There are many resources online to help you with it. You can use Github guidelines for writing, editing and formating on .md files. Link is provided in the **Resources and Links** section.
+
+> [!IMPORTANT]
+> The quality of the assessment is more important than the asthetics and presentation.
+> The document should be readable properly formatted but has content you create is of more value.
+
+</details>
+
 ## Resources and Links
 - Template for [Github issue](/Samples/Github_issue.txt)
 - Template for [Security Self-Assessment](/Samples/self-assessment.md)
 - Template for [Lightweight Threat Modeling](https://docs.google.com/document/d/1tuGtKrjcreDFlHcXYCTjLvy3mjyamdQzwCZr6uqFcR4/edit#heading=h.w0tawqz3390z)
 - Opensource SBOM generation Tool [FOSSA](https://app.fossa.com/)
 - Github's tool for finding languages used in the codebase [linguist](https://github.com/github-linguist/linguist)
+- Quickstart for writing on Github [guidelines](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
