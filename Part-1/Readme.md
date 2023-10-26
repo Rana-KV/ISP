@@ -214,6 +214,7 @@ This can help to point out areas where the self assessment needs to be further r
 
 <details>
 <summary> Previous projects assessment </summary>
+  
   - [in-toto security self-assessment](https://github.com/Rana-KV/tag-security/blob/main/assessments/projects/in-toto/self-assessment.md)
   - [Flux Multi-tenancy Security Self-assessment](https://docs.google.com/document/d/1SluYVDuq-egSTurcnrVRMJw6ecSV65Qtgi10T4WHyYs/edit#heading=h.1tct6t54k4bs)
   - [Flux Multitenancy: Lightweight Threat Modelling Recommendations](https://docs.google.com/document/d/1Ruf3VNmdJyvp5bgiu3rjhNDEZx3zK4Ui6BIonkHwl_E/edit#heading=h.s2vhbyeeeqni)
