@@ -167,7 +167,7 @@ This can help to point out areas where the self assessment needs to be further r
 </details>
 
 <details>
-<summary> I don't know how to write, edit and format on .md files of Github, Do you have any resources? </summary>
+<summary> I don't know how to write, edit and format .md files, Do you have any resources? </summary>
 
   - There are many resources online to help you with it. You can use Github guidelines for writing, editing and formating on .md files. Link is provided in the **Resources and Links** section.
 
