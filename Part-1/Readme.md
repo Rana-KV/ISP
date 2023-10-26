@@ -155,7 +155,14 @@ This can help to point out areas where the self assessment needs to be further r
 <details>
 <summary> What if the project doesn't have a public SBOM? </summary>
 
-  - You can use opensource SBOM tools to generate the SBOM for the project codebase and use it in your document. One of the common opensource SBOM generation is provided in the **Resources and Links** section.
+  - You can use opensource SBOM tools to generate the SBOM for the project codebase and use it in your document. One of the common opensource SBOM generator is provided in the **Resources and Links** section.
+
+</details>
+
+<details>
+<summary> What if the project doesn't have details on what languages it uses? </summary>
+
+  - You can use Github's tool for finding languages used in the codebase and use it in your document. Tool link is provided in the **Resources and Links** section.
 
 </details>
 
@@ -164,3 +171,4 @@ This can help to point out areas where the self assessment needs to be further r
 - Template for [Security Self-Assessment](/Samples/self-assessment.md)
 - Template for [Lightweight Threat Modeling](https://docs.google.com/document/d/1tuGtKrjcreDFlHcXYCTjLvy3mjyamdQzwCZr6uqFcR4/edit#heading=h.w0tawqz3390z)
 - Opensource SBOM generation Tool [FOSSA](https://app.fossa.com/)
+- Github's tool for finding languages used in the codebase [linguist](https://github.com/github-linguist/linguist)
