@@ -27,18 +27,18 @@
 
 ## Assignment-3 Parts
 Assignment contains 3 major parts where it will be evaluated:
-### Part 3.1
-- It should be submitted before you move to Stage 4 (Iteration with the project).
+### [Part 3.1](/Part-1)
+- It should be submitted after completing Stage 3 (First draft of the Self Assessment).
 - The evaluation will be on the first draft of the security self-assessment you and your group create.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
-### Part 3.2
-- It should be submitted before you move to Stage 5 (Finailization).
+### [Part 3.2](/Part-2)
+- It should be submitted after completing Stage 4 (Iteration with the project).
 - It will be evaluated after you have discussed with the project maintainers and fixed or improved your security self-assessment.
 - The evaluation will be on the feedback from the project maintainers and maturity of the security self-assessment document.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
 
-### Part 3.3
+### [Part 3.3](/Part-3)
 - It should be submitted after completing Stage 5 (Finailization).
 - It will be evaluated after you have discussed with the TAG-Security Team and fixed or improved your security self-assessment.
 - The evaluation will be on the feedback from the project maintainers and maturity of the security self-assessment document.
