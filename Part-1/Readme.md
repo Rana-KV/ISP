@@ -119,14 +119,14 @@ This can help to point out areas where the self assessment needs to be further r
 <details>
 <summary> How should I create the Github issue? </summary>
 
-  - Use the template of provided in the resources section to create the Github issue.
+  - Use the template of provided in the **Resources and Links** section to create the Github issue.
 
 </details>
 
 <details>
 <summary> How should I create the security self-assessment document? </summary>
 
-  - Use the template of provided in the resources section to create the security self-assessment document.
+  - Use the template of provided in the **Resources and Links** section to create the security self-assessment document.
 
 </details>
 
@@ -154,4 +154,4 @@ This can help to point out areas where the self assessment needs to be further r
 
 ## Resources and Links
 - Template for [Github issue](/Samples/Github_issue.txt)
-- Template for [Security Self-Assessment]()
+- Template for [Security Self-Assessment](/Samples/self-assessment.md)
