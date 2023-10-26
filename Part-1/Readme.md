@@ -11,7 +11,7 @@
 - [Resources and Links](#resources-and-links)
 
 ## Part 3.1
-- It should be submitted before you move to Stage 4 (Intiate discussions with project maintainers).
+- It should be submitted after you complete to Stage 3 (First draft of the Self Assessment).
 - You must submit your repository link to the updated security self-assessment document and Github issue.
 - The evaluation will be on the first draft of the security self-assessment you and your group create.
 - The evaultion will be on the completeness of the threat modeling, understanding of the project and research on the project.
@@ -154,3 +154,4 @@ This can help to point out areas where the self assessment needs to be further r
 
 ## Resources and Links
 - Template for [Github issue](/Samples/Github_issue.txt)
+- Template for [Security Self-Assessment]()
