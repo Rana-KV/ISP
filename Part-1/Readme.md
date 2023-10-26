@@ -8,7 +8,7 @@
   - [Stage-2](#stage-2-understanding-the-project)
   - [Stage-3](#stage-3-first-draft-of-the-self-assessment)
 - [FAQs](#faqs)
-- [Links]
+- [Resources and Links](#resources-and-links)
 
 ## Part 3.1
 - It should be submitted before you move to Stage 4 (Intiate discussions with project maintainers).
@@ -151,3 +151,6 @@ This can help to point out areas where the self assessment needs to be further r
   - Reach out to project maintainers as soon as you have a good first draft document. 
 
 </details>
+
+## Resources and Links
+- Template for [Github issue](/Samples/Github_issue.txt)
