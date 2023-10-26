@@ -152,6 +152,15 @@ This can help to point out areas where the self assessment needs to be further r
 
 </details>
 
+<details>
+<summary> What if the project doesn't have a public SBOM? </summary>
+
+  - You can use opensource SBOM tools to generate the SBOM for the project codebase and use it in your document. One of the common opensource SBOM generation is provided in the **Resources and Links** section.
+
+</details>
+
 ## Resources and Links
 - Template for [Github issue](/Samples/Github_issue.txt)
 - Template for [Security Self-Assessment](/Samples/self-assessment.md)
+- Template for [Lightweight Threat Modeling](https://docs.google.com/document/d/1tuGtKrjcreDFlHcXYCTjLvy3mjyamdQzwCZr6uqFcR4/edit#heading=h.w0tawqz3390z)
+- Opensource SBOM generation Tool [FOSSA](https://app.fossa.com/)
