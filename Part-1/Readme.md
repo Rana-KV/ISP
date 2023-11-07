@@ -26,6 +26,7 @@
 - Throughout the assignment you and your group will carry out the role of a *Security Pal* and perform Security Self-assessment for an open source project in CNCF.
 - Create first draft of Security Self-assessment for an open source project in CNCF.
 
+**Submission Deadline - 6:30 PM, 28th Nov 2023.**
 
 ## Stages
 ### Stage-1: **Preparation**
