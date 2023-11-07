@@ -22,6 +22,7 @@
 
 ### *Task:* Create first draft
 - This assignment is a group project and the groups will be announced in the Class.
+  - Project list group wise [Google Sheets link](https://docs.google.com/spreadsheets/d/1Ptk-5WuY9kG5gNONQ8X4Tn57V6LiWvET2wnOYw_KFyU/edit?usp=sharing)
 - Throughout the assignment you and your group will carry out the role of a *Security Pal* and perform Security Self-assessment for an open source project in CNCF.
 - Create first draft of Security Self-assessment for an open source project in CNCF.
 
