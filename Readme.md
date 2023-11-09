@@ -3,7 +3,7 @@
 
 - [Task](#task-perform-a-security-self-assessment-for-a-open-source-project)
 - [Deadlines](#deadlines)
-- [Timeline](#timeline)
+- [Process Timeline](#process-timeline)
 - [Assignment Parts](#assignment-3-parts)
   - [Part 3.1](#part-31)
   - [Part 3.2](#part-32)
@@ -26,7 +26,7 @@
   <img src="https://github.com/Rana-KV/ISP/blob/main/ISP_deadline.PNG" alt="Deadlines">
 </p>
 
-## Timeline
+## Process Timeline
 <p align="center">
   <img src="https://github.com/Rana-KV/ISP/blob/main/Assignment_3-Timeline.png" alt="Timeline Image">
 </p>
