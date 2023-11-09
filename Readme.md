@@ -2,6 +2,7 @@
 ## Table of Contents
 
 - [Task](#task-perform-a-security-self-assessment-for-a-open-source-project)
+- [Deadlines](#deadlines)
 - [Timeline](#timeline)
 - [Assignment Parts](#assignment-3-parts)
   - [Part 3.1](#part-31)
@@ -19,6 +20,11 @@
 - As part of the assignment you and your group will carry out the role of a *Security Pal* and perform Security Self-assessment for an open source project in CNCF.
 - You can't work on security Self-assessment for open source projects which are not listed in the project list.
 - The opensource project must be a CNCF Project in Graduated, Inccubated or Sandbox stage.
+
+## Deadlines
+<p align="center">
+  <img src="https://github.com/Rana-KV/ISP/blob/main/ISP_deadline.PNG" alt="Deadlines">
+</p>
 
 ## Timeline
 <p align="center">
