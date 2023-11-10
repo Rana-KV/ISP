@@ -40,7 +40,7 @@ establish a placeholder for the security self-assessment document.<br>
 <summary> More Details </summary>
 
 - Create a GitHub issue:
-  - Create a Github issue in[Course TAG-Security](https://github.com/Rana-KV/tag-security) Github repository to initiate the process.
+  - Create a Github issue in [Course TAG-Security](https://github.com/Rana-KV/tag-security) Github repository to initiate the process.
   - Update the information in the Github issue.<br>
 
 - Review the Project Information:
