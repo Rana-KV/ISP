@@ -14,3 +14,13 @@ For Assignment-3: Part-2, follow these steps:
 These steps are crucial for creating a thorough and effective security self-assessment document.
 
 Your team will be evaluated in two based the participation in discussions on Slack and initiative to solve the issues you found.
+
+## FAQS
+<details>
+<summary> What should I do if the project maintainers don't respond? </summary>
+
+- Allow some time for the maintainers to reply, as they might be busy with other commitments.
+- If there's still no response after a reasonable period, contact the Professor and Teaching Assistant, providing details about your project.
+- We will assist you in resolving the issue and moving forward with your assignment.
+
+</details>
