@@ -9,8 +9,13 @@ For Assignment-3: Part-3, follow these steps:
 
 - **Action Items:** Based on the insights from your team's Security Self-Assessment, determine and initiate necessary action items. This may include addressing security vulnerabilities or implementing suggested improvements in the project or development pipeline. Consider creating a GitHub Issue with the project maintainers to specifically address these issues you brought up.
 
+> [!IMPORTANT]
+> Don't open multiple PRs. Open only one PR per Project and follow the format mentioned in FAQs.
 
-These steps are crucial for creating a finishing your Assignment 3, security self-assessment document.
+> [!NOTE]
+> These steps are crucial for creating a finishing your Assignment 3, security self-assessment document.
+> Adding your team members as co-authors during your commit squash will be curcial to provide them credit for the PR. You can't do it later.
+> Perform these steps carefully as you can't revert the changes.
 
 Evaluation will be based on your team's proficiency in incorporating feedback and finalizing the document.
 Your project maintainer's feedback will also be considered, we will send out feedback forms to project maintainers soon.
