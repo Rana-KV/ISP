@@ -1,7 +1,11 @@
 # Assignment 3.3
 For Assignment-3: Part-3, follow these steps:
 
-- **Initiate Pull Request:** Squash your commits, add the contributors (you can your team members) and submit the work through a Pull Request.
+- **Initiate Pull Request:**
+  - Sync your Fork.
+  - Squash your commits.
+  - Add the contributors (you can add your team members).
+  - Submit the work through a Pull Request.
 
 - **Document Evolution:** Refine the document you have in Part-2. There are two types of feedback to anticipate: one from the project maintainers and the other from TAG-Security. Feedback from project maintainers will aim to accurately represent the project's security posture, while TAG-Security will focus on enhancing the document's coverage and quality. Since some of the project haven't completely provided their feedback, expect ongoing feedback from both these sources.
 
@@ -25,6 +29,17 @@ Evaluation will be based on your team's proficiency in incorporating feedback an
 Your project maintainer's feedback will also be considered, we will send out feedback forms to project maintainers soon.
 
 ## FAQS
+<details>
+<summary> How do I sync my Fork? </summary>
+
+- There are number of ways one can sync his fork to the main repository.
+  - Can be done easily through GUI of Github.
+<p align="center">
+  <img src="https://github.com/Rana-KV/ISP/blob/main/ISP_deadline.PNG" alt="Deadlines">
+</p>
+
+</details>
+
 <details>
 <summary> How do I squash my commits? </summary>
 
