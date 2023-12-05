@@ -3,9 +3,9 @@ For Assignment-3: Part-3, follow these steps:
 
 - **Initiate Pull Request:** Squash your commits, add the contributors (you can your team members) and submit the work through a Pull Request.
 
-- **Document Evolution:** Refine and expand the document you have in Part-2. There are two types of feedback to anticipate: one from the project maintainers and the other from TAG-Security. Feedback from project maintainers will aim to accurately represent the project's security posture, while TAG-Security will focus on enhancing the document's coverage and quality. Since some of the project haven't completely provided their feedback, expect ongoing feedback from both these sources.
+- **Document Evolution:** Refine the document you have in Part-2. There are two types of feedback to anticipate: one from the project maintainers and the other from TAG-Security. Feedback from project maintainers will aim to accurately represent the project's security posture, while TAG-Security will focus on enhancing the document's coverage and quality. Since some of the project haven't completely provided their feedback, expect ongoing feedback from both these sources.
 
-- **Fix feedback:** TThe main goal of Part-3 is to finalize the document by addressing all feedback received from both project maintainers and TAG-Security. Your Team has to implement any changes necessary to address the feedback.
+- **Fix feedback:** The main goal of Part-3 is to finalize the document by addressing all feedback received from both project maintainers and TAG-Security. Your Team has to implement any changes necessary to address the feedback.
 
 - **Action Items:** Based on the insights from your team's Security Self-Assessment, determine and initiate necessary action items. This may include addressing security vulnerabilities or implementing suggested improvements in the project or development pipeline. Consider creating a GitHub Issue with the project maintainers to specifically address these issues you brought up.
 
