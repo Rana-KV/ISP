@@ -30,8 +30,8 @@ Your project maintainer's feedback will also be considered, we will send out fee
 <details>
 <summary> What should be the Pull Request Name and content? </summary>
 
-- Title of the Pull Request must be "<Project_Name> Project Security Self-Assessment - Security Pals"
-- Keep the Pull Request contents simple, "Created and added first draft for <Project_Name> Project Security Self-Assessment."
-- Additonally add a request for feedback, "Please feel free to share your feedback on the security self-assessment."
+- Title of the Pull Request must be **"<Project_Name> Project Security Self-Assessment - Security Pals"**
+- Keep the Pull Request contents simple, **"Created and added first draft for <Project_Name> Project Security Self-Assessment."**
+- Additonally add a request for feedback, **"Please feel free to share your feedback on the security self-assessment."**
 
 </details>
