@@ -20,8 +20,11 @@ Your team will be evaluated in two categories, based the participation in discus
 <summary> What should I do if the project maintainers don't respond? </summary>
 
 - Allow some time for the maintainers to reply, as they might be busy with other commitments.
+
+
 - If there's still no response after a reasonable period, contact the Professor and Teaching Assistant, providing details about your project.
-- We will assist you in resolving the issue and moving forward with your assignment.
+  - Do inculde links to your Slack channel, Slack messages and message contents in your email.
+  - We will assist you in resolving the issue and moving forward with your assignment.
 
 </details>
 
@@ -29,10 +32,15 @@ Your team will be evaluated in two categories, based the participation in discus
 <summary> What is good message format to send to project maintiners? </summary>
 
 - Start with a brief introduction about yourself.
+
 - Clearly state your purpose, for instance, mention your involvement with Security Pals for the project.
+
 - Explain the reason for seeking their assistance, such as needing their input to accurately reflect the project's security posture in a public document, where their insights are invaluable.
+
 - Include few open questions you have related to specific aspects of the project.
+
 - Include the link to the security self-assessment document in your message.
+
 - Remember, you are among many developers communicating in the same forum. Ensure your message is detailed yet concise, and consider organizing it into multiple short paragraphs for clarity and readability.
 
 </details>
@@ -41,7 +49,9 @@ Your team will be evaluated in two categories, based the participation in discus
 <summary> How to explain project maintainers about what is happening? </summary>
 
 - **"Security Self-Assessment"** talks about a document of a project that has to capture the current security posture of the project.
+
 - This document is required by all projects in CNCF.
+
 - Your team is actually performing the role of **"Security Pals"** to accelerate the process of documenting and helping the project team create the security self-assessment.
 
 </details>
