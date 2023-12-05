@@ -26,7 +26,7 @@ Your team will be evaluated in two categories, based the participation in discus
 </details>
 
 <details>
-<summary> What is good message format to send to project maintiners> </summary>
+<summary> What is good message format to send to project maintiners? </summary>
 
 - Start with a brief introduction about yourself.
 - Clearly state your purpose, for instance, mention your involvement with Security Pals for the project.
@@ -34,5 +34,14 @@ Your team will be evaluated in two categories, based the participation in discus
 - Include few open questions you have related to specific aspects of the project.
 - Include the link to the security self-assessment document in your message.
 - Remember, you are among many developers communicating in the same forum. Ensure your message is detailed yet concise, and consider organizing it into multiple short paragraphs for clarity and readability.
+
+</details>
+
+<details>
+<summary> How to explain project maintainers about what is happening? </summary>
+
+- **"Security Self-Assessment"** talks about a document of a project that has to capture the current security posture of the project.
+- This document is required by all projects in CNCF.
+- Your team is actually performing the role of **"Security Pals"** to accelerate the process of documenting and helping the project team create the security self-assessment.
 
 </details>
