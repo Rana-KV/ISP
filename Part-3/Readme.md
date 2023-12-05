@@ -21,8 +21,11 @@ Your project maintainer's feedback will also be considered, we will send out fee
 
 - There are number of ways one can squash commit history using different tools.
   - Github desktop can also be used to do it. [Link](https://docs.github.com/en/desktop/managing-commits/squashing-commits-in-github-desktop)
+
 - Once you squash the commit history it's gone for ever.
+
 - You can add contributors to the squash commit while creating it
+
 - Later submit the squashed commit for Pull Request.
 
 </details>
@@ -31,7 +34,9 @@ Your project maintainer's feedback will also be considered, we will send out fee
 <summary> What should be the Pull Request Name and content? </summary>
 
 - Title of the Pull Request must be **"<Project_Name> Project Security Self-Assessment - Security Pals"**
+
 - Keep the Pull Request contents simple, **"Created and added first draft for <Project_Name> Project Security Self-Assessment."**
+
 - Additonally add a request for feedback, **"Please feel free to share your feedback on the security self-assessment."**
 
 </details>
