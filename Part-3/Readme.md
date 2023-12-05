@@ -12,8 +12,12 @@ For Assignment-3: Part-3, follow these steps:
 > [!IMPORTANT]
 > Don't open multiple PRs. Open only one PR per Project and follow the format mentioned in FAQs.
 
+
 > [!NOTE]
-> These steps are crucial for creating a finishing your Assignment 3, security self-assessment document.
+> These steps are crucial for finishing your Assignment 3, security self-assessment document.
+
+
+> [!IMPORTANT]
 > Adding your team members as co-authors during your commit squash will be curcial to provide them credit for the PR. You can't do it later.
 > Perform these steps carefully as you can't revert the changes.
 
