@@ -33,7 +33,13 @@ Your project maintainer's feedback will also be considered, we will send out fee
 <summary> How do I sync my Fork? </summary>
 
 - There are number of ways one can sync his fork to the main repository.
+
   - Can be done easily through GUI of Github.
+
+  - The **"Sync Fork"** Option in the Github helps to Sync your fork with the main Repository.
+
+  - Don't Submit your PR without Syncing your Fork.
+  - A proper Fork sync would look something like the below image.
 <p align="center">
   <img src="https://github.com/Rana-KV/ISP/blob/main/Part-3/Capture_513.PNG" alt="Deadlines">
 </p>
