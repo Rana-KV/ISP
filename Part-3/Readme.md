@@ -35,7 +35,7 @@ Your project maintainer's feedback will also be considered, we will send out fee
 - There are number of ways one can sync his fork to the main repository.
   - Can be done easily through GUI of Github.
 <p align="center">
-  <img src="https://github.com/Rana-KV/ISP/blob/main/ISP_deadline.PNG" alt="Deadlines">
+  <img src="https://github.com/Rana-KV/ISP/blob/main/Part-3/Capture_513.PNG" alt="Deadlines">
 </p>
 
 </details>
