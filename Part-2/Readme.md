@@ -13,7 +13,7 @@ For Assignment-3: Part-2, follow these steps:
 
 These steps are crucial for creating a thorough and effective security self-assessment document.
 
-Your team will be evaluated in two based the participation in discussions on Slack and initiative to solve the issues you found.
+Your team will be evaluated in two categories, based the participation in discussions on Slack and initiative to solve the issues you found.
 
 ## FAQS
 <details>
