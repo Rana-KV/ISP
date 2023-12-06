@@ -70,3 +70,26 @@ Your project maintainer's feedback will also be considered, we will send out fee
 - Additonally add a request for feedback, **"Please feel free to share your feedback on the security self-assessment."**
 
 </details>
+
+<details>
+<summary> How should I add my Teammates as co-authors for the Pull Request? </summary>
+
+- If you've already made a pull request but forgot to add co-authors in the commit, you'll need to update your commit history and then update the pull request. Here's a step-by-step guide on how to do it:
+
+  - Rewrite the Commit History:
+    - First, ensure you are on the correct branch where the commit was made.
+    - Use the git commit --amend command to amend the previous commit. This allows you to edit the commit message where you can add the co-authors.
+    - In the commit message editor that opens, add the co-author credits at the end of the commit message. The format for adding a co-author is: **"Co-authored-by: name <name@example.com>"**
+    - Save and close the editor. This will amend your last commit to include the co-authors.
+
+  - Force Push the Updated Commit:
+    - Since you've amended a commit that's already been pushed, you'll need to force push to update the commit on the remote repository.
+    - Use the command git push --force to force push the changes. This command rewrites the history on the remote branch.
+    - Be aware that force pushing can potentially cause problems for others who are working on the same branch, so it's generally a good idea to communicate with your team before doing this.
+
+  - Update the Pull Request:
+    - If your pull request was made from the branch where you amended the commit, the pull request will automatically be updated with the new commit once you force push.
+    - There's no need to create a new pull request as GitHub will recognize the updated commits.
+
+  - Check the Pull Request:
+    - After force pushing, check the pull request on GitHub to ensure that it reflects your changes, including the added co-authors. 
